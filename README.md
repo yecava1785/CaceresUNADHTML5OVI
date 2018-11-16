@@ -1,1 +1,1 @@
-Información General de Nuestro OVI
+Dar a conocer a los estudiantes a través de un objeto virtual de aprendizaje, los Fundamentos de seguridad informática tanto teóricos como prácticos, para que una vez terminado el curso, tenga las capacidades necesarios en un ambiente laboral competente, en el que ponga en práctica, lo aprendido en él, para así garantizar los principios fundamentales de la seguridad informática en la organización que se desempeñe.
