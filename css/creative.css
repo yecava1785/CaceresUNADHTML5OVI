@@ -61,8 +61,13 @@ section {
 
 .section-heading {
   margin-top: 0;
+
 }
 
+.Justif
+{
+ text-align: justify;
+}
 ::-moz-selection {
   color: #fff;
   background: #212529;
@@ -116,6 +121,9 @@ img::-moz-selection {
   text-transform: uppercase;
   color: #212529;
 }
+
+
+	
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
@@ -317,3 +325,26 @@ header.masthead p {
   -webkit-box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
+
+.menuCSS3 ul {
+		display: flex;
+		padding: 0;
+		margin: 0;
+		list-style: none;
+	}
+	.menuCSS3 a {
+		display: block;
+		padding: 2em;
+		background-color: #F9B53C;
+		text-decoration: none;
+		color: #191C26;
+	}
+	.menuCSS3 a:hover {
+		background-color: #CC673B;
+	}
+	.menuCSS3 ul li ul {
+		display: none;
+	}
+	.menuCSS3 ul li a:hover + ul, .menuCSS3 ul li ul:hover {
+		display: block;
+	}
